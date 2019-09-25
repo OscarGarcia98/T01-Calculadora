@@ -72,12 +72,3 @@ namespace Calculadora
 
     }
 }
-//Reglas de sobrecarga
-/*Debe llevar el mismo nombre;
- * Deben tener el mismo tipo de dato
- * Solo cambian los argumentos
- * 
- * 
- * tarea hacer una clase llamada suma poniendo el metodo suma varias veces agregando valores
- * public int Sumar()  con 3 variables, dos variables una varible y sin variables.
- * */
